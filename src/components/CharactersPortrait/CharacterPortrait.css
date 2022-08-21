@@ -1,0 +1,11 @@
+
+
+
+ 
+.character-portrait  img{
+     width: 200px;
+     height: 200px;
+    cursor:pointer; 
+    border-radius: 20px;   
+}
+

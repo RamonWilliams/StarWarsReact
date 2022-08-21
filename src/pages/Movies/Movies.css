@@ -1,0 +1,8 @@
+.mainFigure{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-bottom: 4rem;
+    justify-content: center;
+    
+}

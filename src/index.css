@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    min-height: 100vh;
+    background:url("https://cdn.wallpapersafari.com/45/78/AYgXr4.jpeg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(255, 196, 0);
+}
+
+

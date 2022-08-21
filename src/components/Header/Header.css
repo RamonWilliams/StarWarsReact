@@ -1,0 +1,49 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    height: 20vh;
+    align-items: center;
+    margin-bottom: 4rem;
+}
+nav img{
+  width: 60px;
+  height: 60px;
+  margin-left: 4rem;
+  transition: all 0.3s ease-in-out;
+  border-radius: 20px;
+}
+nav img :hover{
+    transform:scale (1.2);
+}
+ul{
+    display: flex;
+   
+    width: 90%;
+    height: 100%;
+    justify-content:space-around;
+    align-items: center;
+
+}
+.home a{
+    font-size: 25px;
+    color: rgb(2, 0, 0);   
+    padding: 1rem;
+    border-radius: 30px;
+    background-color:  rgba(255, 196, 0, 0.568);
+
+}
+ul li a{
+    text-transform: uppercase;
+    font-size: 1.1rem;
+    border: 2px solid black;
+    padding: 12px;
+    background-color: black;
+    border-radius: 20px;
+  
+}
+
+.home a{
+   
+   transform: scale(1.1);
+   background-color:  rgba(255, 196, 0, 0.856)
+}
